@@ -1,0 +1,88 @@
+.topcryptocurrencypriceslive-wrapper ul.topcryptocurrencypriceslive {
+	margin: 0;
+	padding: 0;
+	list-style: none !important;
+	line-height: normal;
+	display: block;
+	position: relative
+}
+
+.topcryptocurrencypriceslive-wrapper ul.topcryptocurrencypriceslive li {
+	list-style: none !important
+}
+
+.topcryptocurrencypriceslive-wrapper ul.topcryptocurrencypriceslive .sqitem {
+	white-space: nowrap;
+	text-decoration: none
+}
+
+.topcryptocurrencypriceslive-wrapper ul.topcryptocurrencypriceslive .sqitem:before {
+	content: ""
+}
+
+.topcryptocurrencypriceslive-wrapper ul.topcryptocurrencypriceslive .plus>.sqitem:before {
+	content: url(../img/up_g.gif);
+	margin-right: 2px
+}
+
+.topcryptocurrencypriceslive-wrapper ul.topcryptocurrencypriceslive .minus>.sqitem:before {
+	content: url(../img/down_r.gif);
+	margin-right: 2px
+}
+
+.topcryptocurrencypriceslive-wrapper ul.topcryptocurrencypriceslive_bit234 li {
+	float: left;
+	margin: 0;
+	padding: 0 20px 0 0
+}
+
+.topcryptocurrencypriceslive-wrapper ul.topcryptocurrencypriceslive .sqitem {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	display: block
+}
+
+.topcryptocurrencypriceslive-wrapper ul.topcryptocurrencypriceslive span {
+	margin: 0 10px 0 0
+}
+
+.topcryptocurrencypriceslive-wrapper .topcryptocurrencypriceslive-container {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	overflow: hidden
+}
+
+.topcryptocurrencypriceslive-wrapper .topcryptocurrencypriceslive-container .mask {
+	position: relative;
+	top: 0;
+	overflow: hidden
+}
+
+.topcryptocurrencypriceslive-wrapper .topcryptocurrencypriceslive-container ul {
+	-webkit-transition: all 0s linear;
+	-moz-transition: all 0s linear;
+	-o-transition: all 0s linear;
+	transition: all 0s linear;
+	list-style-type: none;
+	float: left
+}
+/*# sourceMappingURL=topcryptocurrencypriceslive.css.map */
+ul.topcryptocurrencypriceslive li .sqitem {
+	font-family: "Open Sans",Helvetica,Arial,sans-serif;
+	font-weight: normal;
+	font-size: 14px;
+}
+
+ul.topcryptocurrencypriceslive li.zero .sqitem,ul.topcryptocurrencypriceslive li.zero .sqitem:hover {
+	color: #454545
+}
+
+ul.topcryptocurrencypriceslive li.minus .sqitem,ul.topcryptocurrencypriceslive li.minus .sqitem:hover {
+	color: #D8442F
+}
+
+ul.topcryptocurrencypriceslive li.plus .sqitem,ul.topcryptocurrencypriceslive li.plus .sqitem:hover {
+	color: #009D59
+}

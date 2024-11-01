@@ -1,0 +1,59 @@
+# Translation of Plugins - Hello Dolly - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Hello Dolly - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-03-20 01:42:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Top Cryptocurrency Prices live - Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "Bit234.com"
+msgstr "Bit234.com"
+
+#. Author URI of the plugin/theme
+msgid "http://bit234.com"
+msgstr "http://bit234.com"
+
+#. Plugin Name of the plugin/theme
+msgid "Top Cryptocurrency Prices Live"
+msgstr "加密货币价格列表"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/Top_Cryptocurrency_prices_live/"
+msgstr "https://wordpress.org/plugins/Top_Cryptocurrency_prices_live/"
+
+#. Description of the plugin/theme
+msgid "Top Cryptocurrency prices list from bit234.com"
+msgstr "加密货币价格列表，数据来源自bit234.com"
+
+# top_cryptocurrency_prices_live.php: 78
+msgid "Top Cryptocurrency Prices List"
+msgstr "加密货币价格列表"
+
+# 138
+msgid "Cryptocurrency Prices"
+msgstr "加密货币实时报价"
+
+# 200
+msgid "Cryptocurrency Symbols(less than 10)"
+msgstr "加密货币简称(小于10个)"
+
+# 205
+msgid "Currency"
+msgstr "法定货币"
+
+# 213
+msgid "Number format"
+msgstr "数字格式"
+
+# 223
+msgid "Decimal places"
+msgstr "保留小数点位数"
+
+
+
